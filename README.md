@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Software Engineering, DevOps, Cloud Computing, Data engineering, and database administration.
 - 🌱 I’m currently getting specialized in Kubernetes.
 - 👯 I’m looking to collaborate on Python K8s Opensourcing project
+- 😄 Pronouns: He/him/his
 - 📜️ [My LinkedIn Profile](https://www.linkedin.com/in/marciovitor/)
 
 ### 💬 Interests 
@@ -45,11 +46,11 @@ Here are some ideas to get you started:
 
 - Exploring Kubernetes environment with Gitops using Flux. [https://github.com/mvitor/lab-flux-k8s](https://github.com/mvitor/lab-flux-k8s)
     
-    - AWS Kubernetes Cluster using Fargate deployment using Terraform as IaaC. 
+    - AKS using Fargate deployment using Terraform as IaaC. 
     - Deployment of Kafka environment with Consumer/Producer using Strimzi CRD, Graphana and Prometheus Helm charts for Installation. Automation steps are executed with Ansible. 
     - CI CD created in Jenkins using Terraform plugin.
 
-- Kafka Environment in Kubernetes lab using Vagrant and minikube . [https://github.com/mvitor/lab-flux-k8s](https://github.com/mvitor/lab-flux-k8s) 
+- Kafka Environment in Kubernetes lab using Vagrant and minikube/AWS AKS. [https://github.com/mvitor/minikubelab_kafka_awsvm](https://github.com/mvitor/minikubelab_kafka_awsvm) 
     - Deployment of Kafka environment with Python 3 Consumer/Producer using Strimzi CRD, Graphana and Prometheus Helm charts for Installation. Automation steps are executed with Ansible. 
 <br/>
 
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
    
   - Live and learn - Learning new things every day! 
   - Believe in self CI/CD (Continuous Improvements/Continuous Development) 🌱
-   - Love code 💻
+  - Love beatiful and simple code 💻
 
 </details>
 
