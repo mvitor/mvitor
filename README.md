@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Unisys with ITOps, CloudOps and Data Streaming
 - 💬 Ask me about Software Engineering, DevOps, Cloud Computing, Data engineering, and database administration
 - 🌱 I’m currently getting specialized in Kubernetes
-- 👯 I’m looking to collaborate on Python K8s Opensourcing projects
+- 👯 I’m looking to collaborate on Python K8s Opensource projects
 - 😄 Pronouns: He/him/his
 - 📜️ [My LinkedIn Profile](https://www.linkedin.com/in/marciovitor/)
 
