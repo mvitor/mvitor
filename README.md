@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### 💬 Interests 
 <a title="Kubernetes"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
 <a title="Docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
-<a title="AWS"><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a>
-<a title="Azure"><img height="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a>
+<a title="AWS"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a>
+ <a title="Azure"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a>
 <a title="Python"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
 <a title="Linux"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
 <a title="Terraform"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
