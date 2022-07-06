@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <a title="HashiCorp Certified: Terraform Associate" href="https://www.credly.com/badges/1fd25457-9879-4e33-9872-58ec526946fd/public_url"><img height="60" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"></a>
 <a title="Microsoft Certified: Azure Developer Associate" href="https://www.credly.com/badges/3b2009cd-4c2f-4102-bf65-8cdb9ab48f70"><img height="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"></a>
-<a title="AWS Certified Solutions Architect – Associate"><img height="60" src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></a>
+<a title="AWS Certified Solutions Architect – Associate"><img height="60" src="https://i0.wp.com/douglaspicolotto.com/wp-content/uploads/2019/10/Dev.png?w=500&ssl=1"></a>
 <a title="Oracle Database 11g Administrator Certified Professional" href="https://www.credly.com/badges/e8b04bd1-0c9f-4951-a479-09ded4599514/public_url"><img height="60" src="https://images.credly.com/size/340x340/images/2bca0d1f-1b05-4e5d-aee8-ec154344e57b/Oracle-Certification-badge_OC-Professional600X600.png"></a>
 <a title="Oracle Database 11g Administrator Certified Associate" href="https://www.credly.com/badges/97c55733-590a-4de6-8011-8afaa46c12c3/public_url"><img height="60" src="https://images.credly.com/size/340x340/images/669408ac-d4de-48d8-8af4-2fea8914ea89/Oracle-Certification-badge_OC-Associate600X600.png"></a>
 <a title="Red Hat Openstack Administration I"><img height="60" src="https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/coa/coa-badge.svg"></a>
@@ -52,6 +52,23 @@ Here are some ideas to get you started:
 - Kafka Environment in Kubernetes lab using Vagrant and minikube/AWS AKS. [https://github.com/mvitor/minikubelab_kafka_awsvm](https://github.com/mvitor/minikubelab_kafka_awsvm) 
     - Deployment of Kafka environment with Python 3 Consumer/Producer using Strimzi CRD, Graphana and Prometheus Helm charts for Installation. Automation steps are executed with Ansible. 
 <br/>
+
+### 📕️ Interesting Publications
+
+- Python Machine learning Classification using Keras Tensorflow
+  [https://github.com/mvitor/TicketActivityClassifier](https://github.com/mvitor/TicketActivityClassifier)
+  
+- AWS Webapp + RDS DB + Secrets deployment using Terraform
+ [https://github.com/mvitor/aws-api-rds-secret](https://github.com/mvitor/aws-api-rds-secret)
+
+- Oracle and SQL Server DBs Deployment using Puppet
+ [https://github.com/mvitor/dbaas-oracle-sql-server-puppet](https://github.com/mvitor/dbaas-oracle-sql-server-puppet)
+
+- Post published in Perl community in 2010 regarding utilization of DBIx::Class e and DB relantionships  
+  [http://sao-paulo.pm.org/pub/dbix-class-usando-os-relacionamentos](http://sao-paulo.pm.org/pub/dbix-class-usando-os-relacionamentos)
+
+- Perl Webscrapping using OOP to pull data from a phone directory website
+ [https://github.com/mvitor/GuiaMaisWebSpiders](https://github.com/mvitor/GuiaMaisWebSpiders) 
 
 
 <details>
