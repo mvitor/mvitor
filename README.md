@@ -61,13 +61,16 @@ Here are some ideas to get you started:
 - AWS Webapp + RDS DB + Secrets deployment using Terraform
  [https://github.com/mvitor/aws-api-rds-secret](https://github.com/mvitor/aws-api-rds-secret)
 
+- Alexa skill developed for Booking integrating with Easy appointments webapp
+  [https://github.com/mvitor/alexa-easyappointments](https://github.com/mvitor/alexa-easyappointments)
+  
 - Oracle and SQL Server DBs Deployment using Puppet
  [https://github.com/mvitor/dbaas-oracle-sql-server-puppet](https://github.com/mvitor/dbaas-oracle-sql-server-puppet)
 
 - Post published in Perl community in 2010 regarding utilization of DBIx::Class e and DB relantionships  
   [http://sao-paulo.pm.org/pub/dbix-class-usando-os-relacionamentos](http://sao-paulo.pm.org/pub/dbix-class-usando-os-relacionamentos)
 
-- Perl Webscrapping using OOP to pull data from a phone directory website
+- Perl Webscrapping devoloped in 2008 using OOP to pull data from a phone directory website
  [https://github.com/mvitor/GuiaMaisWebSpiders](https://github.com/mvitor/GuiaMaisWebSpiders) 
 
 
