@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 📜️ [My LinkedIn Profile](https://www.linkedin.com/in/marciovitor/)
 
 ### 💬 Interests 
+<a title="Apache Kafka"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/800px-Apache_kafka_wordtype.svg.png"></a>
 <a title="Kubernetes"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
 <a title="Docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
 <a title="AWS"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a>
