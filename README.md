@@ -26,12 +26,11 @@ Here are some ideas to get you started:
 <a title="Python"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
 <a title="Linux"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
 <a title="Terraform"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
-<a title="Ansible"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a>
 
 
 
 ### 🎖️ Certifications
-
+<a title="CKA: Certified Kubernetes Administrator" href="https://www.credly.com/earner/earned/badge/3dda78a0-e312-4395-9674-30e6ae5c5efd"><img height="60" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"></a>
 <a title="HashiCorp Certified: Terraform Associate" href="https://www.credly.com/badges/1fd25457-9879-4e33-9872-58ec526946fd/public_url"><img height="60" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"></a>
 <a title="Microsoft Certified: Azure Developer Associate" href="https://www.credly.com/badges/3b2009cd-4c2f-4102-bf65-8cdb9ab48f70"><img height="60" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"></a>
 <a title="AWS Certified Solutions Architect – Associate"><img height="60" src="https://i0.wp.com/douglaspicolotto.com/wp-content/uploads/2019/10/Dev.png?w=500&ssl=1"></a>
