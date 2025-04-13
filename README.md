@@ -1,7 +1,7 @@
 ### Hi, My name is [Marcio Matos](https://mvitor.com)! and I'm a Senior IT engineer living on the beatiful island of Malta.
 
 - 🔭 I’m currently working on Betsson group with Inteligent Automation, RPA, AI and MLOps.
-- 💬 Ask me about Software Engineering, Automation, Cloud Computing, Data , and database administration
+- 💬 Ask me about Automation,  Agentic AIs and MLOps, Cloud Computing, Data engineering, and database administration
 - 🌱 I’m currently getting specialized in Inteligent Automation and Agentic AIs
 - 👯 I’m looking to collaborate on Python, AI and ML Opensource projects.
 - 😄 Pronouns: He/him/his
