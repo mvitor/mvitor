@@ -1,26 +1,15 @@
-### Hi, My name is [Marcio Vitor](https://mvitor.com)! and I'm from Brazil.
+### Hi, My name is [Marcio Matos](https://mvitor.com)! and I'm a Senior IT engineer living on the beatiful island of Malta.
 
-<!--
-**mvitor/mvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-- 🔭 I’m currently working on Unisys with ITOps, CloudOps and Data Streaming
-- 💬 Ask me about Software Engineering, DevOps, Cloud Computing, Data Infrastructure, and database administration
-- 🌱 I’m currently getting specialized in Kubernetes
-- 👯 I’m looking to collaborate on Python, GenAI K8s Opensource projects
+- 🔭 I’m currently working on Betsson group with Inteligent Automation, RPA, AI and MLOps.
+- 💬 Ask me about Software Engineering, Automation, Cloud Computing, Data , and database administration
+- 🌱 I’m currently getting specialized in Inteligent Automation and Agentic AIs
+- 👯 I’m looking to collaborate on Python, AI and ML Opensource projects.
 - 😄 Pronouns: He/him/his
 - 📜️ [My LinkedIn Profile](https://www.linkedin.com/in/marciovitor/)
 
 ### 💬 Interests 
-<a title="Apache Kafka"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/800px-Apache_kafka_wordtype.svg.png"></a>
-<a title="Kubernetes"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
+<a title="AI"><img height="40" src="https://en.wikipedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png"></a>
+<a title="MLOps"><img height="40" src="https://en.wikipedia.org/wiki/File:ML_Ops_Venn_Diagram.svg"></a>
 <a title="Docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
 <a title="AWS"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></a>
  <a title="Azure"><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></a>
