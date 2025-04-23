@@ -32,14 +32,10 @@
 
 ### 📕️ Recent Publications
 
-- Exploring Kubernetes environment with Gitops using Flux. [https://github.com/mvitor/lab-flux-k8s](https://github.com/mvitor/lab-flux-k8s)
-    
-    - AKS using Fargate deployment using Terraform as IaaC. 
-    - Deployment of Kafka environment with Consumer/Producer using Strimzi CRD, Graphana and Prometheus Helm charts for Installation. Automation steps are executed with Ansible. 
-    - CI CD created in Jenkins using Terraform plugin.
+- TalktoDB RAG application . [[https://github.com/mvitor/talktodb-rag](https://github.com/mvitor/talktodb-rag)
+- Langchain AI Agent. [https://github.com/mvitor/langchain-ai-agents)](https://github.com/mvitor/langchain-ai-agents)
+- Ai Meeting reporter: [https://github.com/mvitor/meeting-reporter](https://github.com/mvitor/meeting-reporter)
 
-- Kafka Environment in Kubernetes lab using Vagrant and minikube/AWS AKS. [https://github.com/mvitor/minikubelab_kafka_awsvm](https://github.com/mvitor/minikubelab_kafka_awsvm) 
-    - Deployment of Kafka environment with Python 3 Consumer/Producer using Strimzi CRD, Graphana and Prometheus Helm charts for Installation. Automation steps are executed with Ansible. 
 <br/>
 
 ### 📕️ Interesting Publications
