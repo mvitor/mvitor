@@ -40,6 +40,9 @@
 
 ### 📕️ Interesting Publications
 
+- A 24/7 autonomous Bitcoin analyst that monitors price trends and delivers AI-powered buy/hold/sell recommendations using Langgraph.
+[https://github.com/mvitor/langchain-ai-agents/blob/main/btc_analyst.py](https://github.com/mvitor/langchain-ai-agents/blob/main/btc_analyst.py)
+
 - Python Machine learning Classification using Keras Tensorflow
   [https://github.com/mvitor/TicketActivityClassifier](https://github.com/mvitor/TicketActivityClassifier)
   
