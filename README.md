@@ -32,15 +32,16 @@
 
 ### 📕️ Recent Publications
 
-- TalktoDB RAG application . [[https://github.com/mvitor/talktodb-rag](https://github.com/mvitor/talktodb-rag)
+
 - Langchain AI Agent. [https://github.com/mvitor/langchain-ai-agents)](https://github.com/mvitor/langchain-ai-agents)
+- TalktoDB RAG application . [[https://github.com/mvitor/talktodb-rag](https://github.com/mvitor/talktodb-rag)
 - Ai Meeting reporter: [https://github.com/mvitor/meeting-reporter](https://github.com/mvitor/meeting-reporter)
 
 <br/>
 
 ### 📕️ Interesting Publications
 
-- A 24/7 autonomous Bitcoin analyst that monitors price trends and delivers AI-powered buy/hold/sell recommendations using Langgraph.
+- A 24/7 autonomous Bitcoin analyst that monitors price trends and delivers AI-powered buy/hold/sell recommendations using Langgraph
 [https://github.com/mvitor/langchain-ai-agents/blob/main/btc_analyst.py](https://github.com/mvitor/langchain-ai-agents/blob/main/btc_analyst.py)
 
 - Python Machine learning Classification using Keras Tensorflow
